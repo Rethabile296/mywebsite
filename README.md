@@ -11,16 +11,15 @@ Welcome to my personal website! This website serves as a portfolio showcasing my
 
 ## 🚀 Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Styling:** Tailwind CSS / Bootstrap (if applicable)
-- **Backend:** (Optional: Node.js, Python, or any backend tech used)
-- **Hosting:** (Netlify, Vercel, GitHub Pages, or your hosting service)
+- **Styling:** Tailwind CSS
+- **Hosting:** Netlify
 
 ## 📂 Project Structure
 ```
 |-- index.html        # Home Page
-|-- about.html        # About Me Page
-|-- projects.html     # Projects Page
-|-- contact.html      # Contact Page
+                      # About Me Page
+                      # Projects Page
+                      # Contact Page
 |-- assets/           # Images, icons, and media
 |-- css/              # Stylesheets
 |-- js/               # JavaScript files
@@ -29,13 +28,13 @@ Welcome to my personal website! This website serves as a portfolio showcasing my
 ## 📜 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal-website.git
+   git clone https://github.com/Rethabile296/mywebsite.git
    ```
 2. Open `index.html` in your browser.
 3. Customize as needed!
 
 ## 🌍 Live Demo
-Check out the live version of my website here: [Live Website](https://yourwebsite.com)
+Check out the live version of my website here: [Live Website](https://retha-website.netlify.app)
 
 ## 📧 Contact
 Feel free to reach out:
