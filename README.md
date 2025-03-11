@@ -18,6 +18,7 @@ Welcome to my personal website! This website serves as a portfolio showcasing my
 ```
 |-- index.html        # Home Page
                       # About Me Page
+                      # Experience Page
                       # Projects Page
                       # Contact Page
 |-- assets/           # Images, icons, and media
